@@ -16,6 +16,7 @@ function generatePassword(){
         return
     }
 
+
 }
 
 var hasNumbers = confirm("Select 'ok' to include numbers.");
